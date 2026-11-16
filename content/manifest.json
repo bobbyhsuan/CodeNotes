@@ -1,0 +1,22 @@
+{
+  "site": "CodeNotes",
+  "tagline": "程式課程講義整理：依課程、單元分類，難點可對照書籍頁碼。",
+  "courses": [
+    {
+      "id": "data-structures",
+      "title": "資料結構",
+      "summary": "陣列、鏈結串列、堆疊與佇列等基本資料結構。",
+      "units": [
+        { "id": "ch01-array-linked-list", "title": "第 1 章 陣列與鏈結串列", "summary": "兩種線性結構的特性與取捨（範例筆記）" }
+      ]
+    },
+    {
+      "id": "assembly",
+      "title": "組合語言",
+      "summary": "x86 組合語言：暫存器、指令與記憶體存取。",
+      "units": [
+        { "id": "ch01-registers", "title": "第 1 章 暫存器與基本指令", "summary": "通用暫存器與 MOV、ADD 等指令（範例筆記）" }
+      ]
+    }
+  ]
+}
